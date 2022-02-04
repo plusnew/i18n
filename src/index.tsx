@@ -1,7 +1,7 @@
 import plusnew, {
   Component,
-  ApplicationElement,
-  Props,
+  type ApplicationElement,
+  type Props,
   store,
   context,
 } from "@plusnew/core";

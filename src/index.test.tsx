@@ -6,7 +6,7 @@ import i18nFactory from "./index";
 configure({ adapter: new enzymeAdapterPlusnew() });
 
 function nextTick() {
-  return new Promise((resolve) => resolve());
+  return new Promise<void>((resolve) => resolve());
 }
 
 describe("test i18nFactory", () => {
