@@ -14,12 +14,12 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/plusnew/dnd.git"
+		"url": "git+https://github.com/plusnew/i18n.git"
 	},
 	"author": "Carlo Jeske",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/plusnew/dnd/issues"
+		"url": "https://github.com/plusnew/i18n/issues"
 	},
 	"dependencies": {},
 	"devDependencies": {
